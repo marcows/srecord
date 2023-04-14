@@ -21,7 +21,6 @@
 .pdfinfo /Author Scott Finneran, Peter Miller
 .pdfinfo /Subject Overview of SRecord version \*(V) [\*(G)]
 .pdfinfo /Keywords SRecord README changelog releases
-.pdfsync
 .\" ---------------------------------------------------------------------------
 .hy 0
 .ad l
